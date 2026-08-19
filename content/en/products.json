@@ -1,0 +1,32 @@
+{
+  "version" : "20260817-152744",
+  "locale" : "en",
+  "products" : [ {
+    "model" : "HDZN-HV-5kWh-S",
+    "voltage" : "High Voltage",
+    "capacity" : "5.12 kWh",
+    "chemistry" : "LiFePO4",
+    "shape" : "slim",
+    "image" : null,
+    "name" : "HDZN-HV-5kWh-S Energy Storage Battery",
+    "description" : "Reliable LiFePO4 energy storage for residential and commercial applications."
+  }, {
+    "model" : "HDZN-LV-10kWh",
+    "voltage" : "Low Voltage",
+    "capacity" : "10.24 kWh",
+    "chemistry" : "LiFePO4",
+    "shape" : "wide",
+    "image" : null,
+    "name" : "HDZN-LV-10kWh Energy Storage Battery",
+    "description" : "Reliable LiFePO4 energy storage for residential and commercial applications."
+  }, {
+    "model" : "HDZN-LV-16kWh",
+    "voltage" : "Low Voltage",
+    "capacity" : "16.08 kWh",
+    "chemistry" : "LiFePO4",
+    "shape" : "tall",
+    "image" : null,
+    "name" : "HDZN-LV-16kWh Energy Storage Battery",
+    "description" : "Reliable LiFePO4 energy storage for residential and commercial applications."
+  } ]
+}
