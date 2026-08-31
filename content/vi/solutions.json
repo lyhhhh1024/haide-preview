@@ -1,0 +1,252 @@
+{
+  "version" : "20260831-153812",
+  "locale" : "vi",
+  "solutions" : [ {
+    "id" : 5,
+    "code" : "villa-storage",
+    "category" : "residential",
+    "coverImage" : null,
+    "brandLogo" : null,
+    "title" : "Giải pháp lưu trữ năng lượng biệt thự",
+    "description" : "",
+    "products" : [ {
+      "id" : 14,
+      "model" : "G6-EH1P(12-18)K03-NV-YD-L",
+      "category" : "inverters",
+      "brand" : "Ginlong",
+      "image" : "/images/products/inverters/ginlong-g6-eh1p-12-18.webp",
+      "name" : "G6-EH1P(12-18)K03-NV-YD-L",
+      "description" : ""
+    }, {
+      "id" : 15,
+      "model" : "G6-EH1P(3-10)K-L-PLUS",
+      "category" : "inverters",
+      "brand" : "Ginlong",
+      "image" : "/images/products/inverters/ginlong-g6-eh1p-3-10.webp",
+      "name" : "G6-EH1P(3-10)K-L-PLUS",
+      "description" : ""
+    }, {
+      "id" : 16,
+      "model" : "G6-EH3P(30-60)K-NV-YD-H",
+      "category" : "inverters",
+      "brand" : "Ginlong",
+      "image" : "/images/products/inverters/ginlong-g6-eh3p-30-60.webp",
+      "name" : "G6-EH3P(30-60)K-NV-YD-H",
+      "description" : ""
+    }, {
+      "id" : 17,
+      "model" : "G6-EH3P(8-18)K02-NV-YD-L",
+      "category" : "inverters",
+      "brand" : "Ginlong",
+      "image" : "/images/products/inverters/ginlong-g6-eh3p-8-18.webp",
+      "name" : "G6-EH3P(8-18)K02-NV-YD-L",
+      "description" : ""
+    }, {
+      "id" : 18,
+      "model" : "G6-EH3P(80-125)K10-NV-YD-H",
+      "category" : "inverters",
+      "brand" : "Ginlong",
+      "image" : "/images/products/inverters/ginlong-g6-eh3p-80-125.webp",
+      "name" : "G6-EH3P(80-125)K10-NV-YD-H",
+      "description" : ""
+    }, {
+      "id" : 19,
+      "model" : "S6-EH3P(29.9-60)K-H(21A)",
+      "category" : "inverters",
+      "brand" : "Ginlong",
+      "image" : "/images/products/inverters/ginlong-s6-eh3p-29-60.webp",
+      "name" : "S6-EH3P(29.9-60)K-H(21A)",
+      "description" : ""
+    }, {
+      "id" : 20,
+      "model" : "S6-EH3P(80-125)K10-NV-YD-H",
+      "category" : "inverters",
+      "brand" : "Ginlong",
+      "image" : "/images/products/inverters/ginlong-s6-eh3p-80-125.webp",
+      "name" : "S6-EH3P(80-125)K10-NV-YD-H",
+      "description" : ""
+    } ]
+  }, {
+    "id" : 9,
+    "code" : "测试",
+    "category" : "partner",
+    "coverImage" : "",
+    "brandLogo" : "",
+    "title" : "测试",
+    "description" : "测试",
+    "products" : [ {
+      "id" : 10,
+      "model" : "WIT 15K-HU-GTI",
+      "category" : "inverters",
+      "brand" : "Growatt",
+      "image" : "/images/products/inverters/growatt-wit-15k-hu-gti.png",
+      "name" : "WIT 15K-HU-GTI",
+      "description" : ""
+    }, {
+      "id" : 21,
+      "model" : "Tiger Neo 3.0",
+      "category" : "modules",
+      "brand" : "Jinko",
+      "image" : "/images/products/modules/jinko-tiger-neo-3.png",
+      "name" : "Tiger Neo 3.0",
+      "description" : ""
+    } ]
+  }, {
+    "id" : 6,
+    "code" : "commercial-storage",
+    "category" : "commercial",
+    "coverImage" : null,
+    "brandLogo" : null,
+    "title" : "Giải pháp lưu trữ năng lượng thương mại và công nghiệp",
+    "description" : "",
+    "products" : [ {
+      "id" : 10,
+      "model" : "WIT 15K-HU-GTI",
+      "category" : "inverters",
+      "brand" : "Growatt",
+      "image" : "/images/products/inverters/growatt-wit-15k-hu-gti.png",
+      "name" : "WIT 15K-HU-GTI",
+      "description" : ""
+    }, {
+      "id" : 11,
+      "model" : "WIT 17~25K-HU",
+      "category" : "inverters",
+      "brand" : "Growatt",
+      "image" : "/images/products/inverters/growatt-wit-17-25k-hu.png",
+      "name" : "WIT 17~25K-HU",
+      "description" : ""
+    }, {
+      "id" : 12,
+      "model" : "WIT 20~25K-HU-GTI",
+      "category" : "inverters",
+      "brand" : "Growatt",
+      "image" : "/images/products/inverters/growatt-wit-20-25k-hu-gti.png",
+      "name" : "WIT 20~25K-HU-GTI",
+      "description" : ""
+    }, {
+      "id" : 13,
+      "model" : "WIT 4~15K-HU",
+      "category" : "inverters",
+      "brand" : "Growatt",
+      "image" : "/images/products/inverters/growatt-wit-4-15k-hu.png",
+      "name" : "WIT 4~15K-HU",
+      "description" : ""
+    } ]
+  }, {
+    "id" : 7,
+    "code" : "pv-storage-charging",
+    "category" : "pv-storage-charging",
+    "coverImage" : null,
+    "brandLogo" : null,
+    "title" : "Giải pháp hệ thống điện mặt trời - lưu trữ - sạc",
+    "description" : "",
+    "products" : [ {
+      "id" : 5,
+      "model" : "HD-5-8-1PN-S",
+      "category" : "batteries",
+      "brand" : "HDZN Energy",
+      "image" : "/images/products/batteries/hd-5-8-1pn-s.png",
+      "name" : "HD-5-8-1PN-S",
+      "description" : ""
+    }, {
+      "id" : 6,
+      "model" : "HD-G-16kwh",
+      "category" : "batteries",
+      "brand" : "HDZN Energy",
+      "image" : "/images/products/batteries/hd-g-16kwh.png",
+      "name" : "HD-G-16kwh",
+      "description" : ""
+    }, {
+      "id" : 7,
+      "model" : "HD-H-16kwh-S",
+      "category" : "batteries",
+      "brand" : "HDZN Energy",
+      "image" : "/images/products/batteries/hd-h-16kwh-s.png",
+      "name" : "HD-H-16kwh-S",
+      "description" : ""
+    }, {
+      "id" : 8,
+      "model" : "HDZN-HV-125KW261KWh-3P-A01",
+      "category" : "batteries",
+      "brand" : "HDZN Energy",
+      "image" : "/images/products/batteries/hdzn-hv-125kw261kwh-3p-a01.jpg",
+      "name" : "HDZN-HV-125KW261KWh-3P-A01",
+      "description" : ""
+    }, {
+      "id" : 9,
+      "model" : "HDZN-HV-125KW261KWh-3P-N-A",
+      "category" : "batteries",
+      "brand" : "HDZN Energy",
+      "image" : "/images/products/batteries/hdzn-hv-125kw261kwh-3p-n-a.png",
+      "name" : "HDZN-HV-125KW261KWh-3P-N-A",
+      "description" : ""
+    } ]
+  }, {
+    "id" : 8,
+    "code" : "pv-storage-diesel",
+    "category" : "pv-storage-diesel",
+    "coverImage" : null,
+    "brandLogo" : null,
+    "title" : "Giải pháp hệ thống điện mặt trời - lưu trữ - máy phát diesel",
+    "description" : "",
+    "products" : [ {
+      "id" : 5,
+      "model" : "HD-5-8-1PN-S",
+      "category" : "batteries",
+      "brand" : "HDZN Energy",
+      "image" : "/images/products/batteries/hd-5-8-1pn-s.png",
+      "name" : "HD-5-8-1PN-S",
+      "description" : ""
+    }, {
+      "id" : 6,
+      "model" : "HD-G-16kwh",
+      "category" : "batteries",
+      "brand" : "HDZN Energy",
+      "image" : "/images/products/batteries/hd-g-16kwh.png",
+      "name" : "HD-G-16kwh",
+      "description" : ""
+    }, {
+      "id" : 7,
+      "model" : "HD-H-16kwh-S",
+      "category" : "batteries",
+      "brand" : "HDZN Energy",
+      "image" : "/images/products/batteries/hd-h-16kwh-s.png",
+      "name" : "HD-H-16kwh-S",
+      "description" : ""
+    }, {
+      "id" : 8,
+      "model" : "HDZN-HV-125KW261KWh-3P-A01",
+      "category" : "batteries",
+      "brand" : "HDZN Energy",
+      "image" : "/images/products/batteries/hdzn-hv-125kw261kwh-3p-a01.jpg",
+      "name" : "HDZN-HV-125KW261KWh-3P-A01",
+      "description" : ""
+    }, {
+      "id" : 9,
+      "model" : "HDZN-HV-125KW261KWh-3P-N-A",
+      "category" : "batteries",
+      "brand" : "HDZN Energy",
+      "image" : "/images/products/batteries/hdzn-hv-125kw261kwh-3p-n-a.png",
+      "name" : "HDZN-HV-125KW261KWh-3P-N-A",
+      "description" : ""
+    } ]
+  }, {
+    "id" : 10,
+    "code" : "overseas-mining",
+    "category" : "mining",
+    "coverImage" : null,
+    "brandLogo" : null,
+    "title" : "Giải pháp hệ thống mỏ ở nước ngoài",
+    "description" : "",
+    "products" : [ ]
+  }, {
+    "id" : 11,
+    "code" : "domestic-distribution-area",
+    "category" : "distribution-area",
+    "coverImage" : null,
+    "brandLogo" : null,
+    "title" : "Giải pháp lưu trữ năng lượng khu vực lưới điện tại Trung Quốc",
+    "description" : "",
+    "products" : [ ]
+  } ]
+}
