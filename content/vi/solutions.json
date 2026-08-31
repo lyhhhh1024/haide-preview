@@ -1,5 +1,5 @@
 {
-  "version" : "20260831-153812",
+  "version" : "20260831-165429",
   "locale" : "vi",
   "solutions" : [ {
     "id" : 5,
@@ -7,6 +7,7 @@
     "category" : "residential",
     "coverImage" : null,
     "brandLogo" : null,
+    "homeFeatured" : false,
     "title" : "Giải pháp lưu trữ năng lượng biệt thự",
     "description" : "",
     "products" : [ {
@@ -70,11 +71,20 @@
     "id" : 9,
     "code" : "测试",
     "category" : "partner",
-    "coverImage" : "",
+    "coverImage" : "/images/products/uploads/84dc01e8-0542-472e-9a36-0db205747dfa.png",
     "brandLogo" : "",
+    "homeFeatured" : true,
     "title" : "测试",
     "description" : "测试",
     "products" : [ {
+      "id" : 4,
+      "model" : "测试",
+      "category" : "batteries",
+      "brand" : "HDZN Energy",
+      "image" : "/images/products/uploads/84dc01e8-0542-472e-9a36-0db205747dfa.png",
+      "name" : "1",
+      "description" : "1"
+    }, {
       "id" : 10,
       "model" : "WIT 15K-HU-GTI",
       "category" : "inverters",
@@ -97,6 +107,7 @@
     "category" : "commercial",
     "coverImage" : null,
     "brandLogo" : null,
+    "homeFeatured" : false,
     "title" : "Giải pháp lưu trữ năng lượng thương mại và công nghiệp",
     "description" : "",
     "products" : [ {
@@ -138,9 +149,18 @@
     "category" : "pv-storage-charging",
     "coverImage" : null,
     "brandLogo" : null,
+    "homeFeatured" : false,
     "title" : "Giải pháp hệ thống điện mặt trời - lưu trữ - sạc",
     "description" : "",
     "products" : [ {
+      "id" : 4,
+      "model" : "测试",
+      "category" : "batteries",
+      "brand" : "HDZN Energy",
+      "image" : "/images/products/uploads/84dc01e8-0542-472e-9a36-0db205747dfa.png",
+      "name" : "1",
+      "description" : "1"
+    }, {
       "id" : 5,
       "model" : "HD-5-8-1PN-S",
       "category" : "batteries",
@@ -187,9 +207,18 @@
     "category" : "pv-storage-diesel",
     "coverImage" : null,
     "brandLogo" : null,
+    "homeFeatured" : false,
     "title" : "Giải pháp hệ thống điện mặt trời - lưu trữ - máy phát diesel",
     "description" : "",
     "products" : [ {
+      "id" : 4,
+      "model" : "测试",
+      "category" : "batteries",
+      "brand" : "HDZN Energy",
+      "image" : "/images/products/uploads/84dc01e8-0542-472e-9a36-0db205747dfa.png",
+      "name" : "1",
+      "description" : "1"
+    }, {
       "id" : 5,
       "model" : "HD-5-8-1PN-S",
       "category" : "batteries",
@@ -236,6 +265,7 @@
     "category" : "mining",
     "coverImage" : null,
     "brandLogo" : null,
+    "homeFeatured" : false,
     "title" : "Giải pháp hệ thống mỏ ở nước ngoài",
     "description" : "",
     "products" : [ ]
@@ -245,6 +275,7 @@
     "category" : "distribution-area",
     "coverImage" : null,
     "brandLogo" : null,
+    "homeFeatured" : false,
     "title" : "Giải pháp lưu trữ năng lượng khu vực lưới điện tại Trung Quốc",
     "description" : "",
     "products" : [ ]

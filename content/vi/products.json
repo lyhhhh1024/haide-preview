@@ -1,7 +1,21 @@
 {
-  "version" : "20260831-153812",
+  "version" : "20260831-165429",
   "locale" : "vi",
   "products" : [ {
+    "id" : 4,
+    "model" : "测试",
+    "category" : "batteries",
+    "brand" : "HDZN Energy",
+    "voltage" : "Low Voltage",
+    "capacity" : "test",
+    "chemistry" : "LiFePO4",
+    "shape" : "wide",
+    "image" : "/images/products/uploads/84dc01e8-0542-472e-9a36-0db205747dfa.png",
+    "brandLogo" : null,
+    "homeFeatured" : true,
+    "name" : "1",
+    "description" : "1"
+  }, {
     "id" : 5,
     "model" : "HD-5-8-1PN-S",
     "category" : "batteries",
@@ -12,6 +26,7 @@
     "shape" : "wide",
     "image" : "/images/products/batteries/hd-5-8-1pn-s.png",
     "brandLogo" : null,
+    "homeFeatured" : true,
     "name" : "HD-5-8-1PN-S",
     "description" : ""
   }, {
@@ -25,6 +40,7 @@
     "shape" : "wide",
     "image" : "/images/products/batteries/hd-g-16kwh.png",
     "brandLogo" : null,
+    "homeFeatured" : true,
     "name" : "HD-G-16kwh",
     "description" : ""
   }, {
@@ -38,6 +54,7 @@
     "shape" : "wide",
     "image" : "/images/products/batteries/hd-h-16kwh-s.png",
     "brandLogo" : null,
+    "homeFeatured" : false,
     "name" : "HD-H-16kwh-S",
     "description" : ""
   }, {
@@ -51,6 +68,7 @@
     "shape" : "wide",
     "image" : "/images/products/batteries/hdzn-hv-125kw261kwh-3p-a01.jpg",
     "brandLogo" : null,
+    "homeFeatured" : false,
     "name" : "HDZN-HV-125KW261KWh-3P-A01",
     "description" : ""
   }, {
@@ -64,6 +82,7 @@
     "shape" : "wide",
     "image" : "/images/products/batteries/hdzn-hv-125kw261kwh-3p-n-a.png",
     "brandLogo" : null,
+    "homeFeatured" : false,
     "name" : "HDZN-HV-125KW261KWh-3P-N-A",
     "description" : ""
   }, {
@@ -77,6 +96,7 @@
     "shape" : "wide",
     "image" : "/images/products/inverters/growatt-wit-15k-hu-gti.png",
     "brandLogo" : null,
+    "homeFeatured" : false,
     "name" : "WIT 15K-HU-GTI",
     "description" : ""
   }, {
@@ -90,6 +110,7 @@
     "shape" : "wide",
     "image" : "/images/products/inverters/growatt-wit-17-25k-hu.png",
     "brandLogo" : null,
+    "homeFeatured" : false,
     "name" : "WIT 17~25K-HU",
     "description" : ""
   }, {
@@ -103,6 +124,7 @@
     "shape" : "wide",
     "image" : "/images/products/inverters/growatt-wit-20-25k-hu-gti.png",
     "brandLogo" : null,
+    "homeFeatured" : false,
     "name" : "WIT 20~25K-HU-GTI",
     "description" : ""
   }, {
@@ -116,6 +138,7 @@
     "shape" : "wide",
     "image" : "/images/products/inverters/growatt-wit-4-15k-hu.png",
     "brandLogo" : null,
+    "homeFeatured" : false,
     "name" : "WIT 4~15K-HU",
     "description" : ""
   }, {
@@ -129,6 +152,7 @@
     "shape" : "wide",
     "image" : "/images/products/inverters/ginlong-g6-eh1p-12-18.webp",
     "brandLogo" : null,
+    "homeFeatured" : false,
     "name" : "G6-EH1P(12-18)K03-NV-YD-L",
     "description" : ""
   }, {
@@ -142,6 +166,7 @@
     "shape" : "wide",
     "image" : "/images/products/inverters/ginlong-g6-eh1p-3-10.webp",
     "brandLogo" : null,
+    "homeFeatured" : false,
     "name" : "G6-EH1P(3-10)K-L-PLUS",
     "description" : ""
   }, {
@@ -155,6 +180,7 @@
     "shape" : "wide",
     "image" : "/images/products/inverters/ginlong-g6-eh3p-30-60.webp",
     "brandLogo" : null,
+    "homeFeatured" : false,
     "name" : "G6-EH3P(30-60)K-NV-YD-H",
     "description" : ""
   }, {
@@ -168,6 +194,7 @@
     "shape" : "wide",
     "image" : "/images/products/inverters/ginlong-g6-eh3p-8-18.webp",
     "brandLogo" : null,
+    "homeFeatured" : false,
     "name" : "G6-EH3P(8-18)K02-NV-YD-L",
     "description" : ""
   }, {
@@ -181,6 +208,7 @@
     "shape" : "wide",
     "image" : "/images/products/inverters/ginlong-g6-eh3p-80-125.webp",
     "brandLogo" : null,
+    "homeFeatured" : false,
     "name" : "G6-EH3P(80-125)K10-NV-YD-H",
     "description" : ""
   }, {
@@ -194,6 +222,7 @@
     "shape" : "wide",
     "image" : "/images/products/inverters/ginlong-s6-eh3p-29-60.webp",
     "brandLogo" : null,
+    "homeFeatured" : false,
     "name" : "S6-EH3P(29.9-60)K-H(21A)",
     "description" : ""
   }, {
@@ -207,6 +236,7 @@
     "shape" : "wide",
     "image" : "/images/products/inverters/ginlong-s6-eh3p-80-125.webp",
     "brandLogo" : null,
+    "homeFeatured" : false,
     "name" : "S6-EH3P(80-125)K10-NV-YD-H",
     "description" : ""
   }, {
@@ -220,6 +250,7 @@
     "shape" : "wide",
     "image" : "/images/products/modules/jinko-tiger-neo-3.png",
     "brandLogo" : "/images/products/brands/jinko.png",
+    "homeFeatured" : false,
     "name" : "Tiger Neo 3.0",
     "description" : ""
   }, {
@@ -233,6 +264,7 @@
     "shape" : "wide",
     "image" : "/images/products/modules/longi-hi-mo-x10.png",
     "brandLogo" : "/images/products/brands/longi.png",
+    "homeFeatured" : false,
     "name" : "HI-MO X10",
     "description" : ""
   }, {
@@ -246,6 +278,7 @@
     "shape" : "wide",
     "image" : "/images/products/modules/gaojing-gk-3-72-hgf.jpg",
     "brandLogo" : "/images/products/brands/gaojing.png",
+    "homeFeatured" : false,
     "name" : "GK-3-72-HGF",
     "description" : ""
   } ]
