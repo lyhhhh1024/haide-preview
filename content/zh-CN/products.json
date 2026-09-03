@@ -1,21 +1,7 @@
 {
-  "version" : "20260903-120224",
+  "version" : "20260903-152951",
   "locale" : "zh-CN",
   "products" : [ {
-    "id" : 23,
-    "model" : "1",
-    "category" : "batteries",
-    "brand" : "HDZN Energy",
-    "voltage" : "Low Voltage",
-    "capacity" : "1",
-    "chemistry" : "LiFePO4",
-    "shape" : "wide",
-    "image" : "/images/products/uploads/30272f5b-c3bd-43a8-9adb-8a81a7adee4c.png",
-    "brandLogo" : "1",
-    "homeFeatured" : true,
-    "name" : "1",
-    "description" : "1"
-  }, {
     "id" : 2,
     "model" : "HDZN-LV-10kWh",
     "category" : "batteries",
