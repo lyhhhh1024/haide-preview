@@ -30,6 +30,20 @@
     "name" : "HD-5-8-1PN-S",
     "description" : ""
   }, {
+    "id" : "ess-5-8-1pn-a",
+    "model" : "ESS-5_8-1PN-A",
+    "category" : "batteries",
+    "brand" : "HDZN Energy",
+    "voltage" : "Low Voltage",
+    "capacity" : "5 kW / 8 kWh",
+    "chemistry" : "—",
+    "shape" : "wide",
+    "image" : "/images/products/renders/ess-5-8-1pn-a/hero.png",
+    "brandLogo" : null,
+    "homeFeatured" : false,
+    "name" : "ESS-5_8-1PN-A",
+    "description" : "面向家庭场景的储能一体机；详细电气参数以正式产品规格书为准。"
+  }, {
     "id" : 5,
     "model" : "HD-G-16kwh",
     "category" : "batteries",
@@ -45,17 +59,17 @@
     "description" : ""
   }, {
     "id" : 6,
-    "model" : "HD-H-16kwh-S",
+    "model" : "HDZN-H-16KWh-S",
     "category" : "batteries",
     "brand" : "HDZN Energy",
-    "voltage" : "Low Voltage",
-    "capacity" : "—",
+    "voltage" : "High Voltage",
+    "capacity" : "64.3-112.5 kWh",
     "chemistry" : "LiFePO4",
     "shape" : "wide",
-    "image" : "/images/products/batteries/hd-h-16kwh-s.png",
+    "image" : "/images/products/renders/hdzn-h-16kwh-s/hero.png",
     "brandLogo" : null,
     "homeFeatured" : false,
-    "name" : "HD-H-16kwh-S",
+    "name" : "HDZN-H-16KWh-S",
     "description" : ""
   }, {
     "id" : 7,

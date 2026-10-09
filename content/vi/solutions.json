@@ -5,7 +5,7 @@
     "id" : 1,
     "code" : "villa-storage",
     "category" : "residential",
-    "coverImage" : null,
+    "coverImage" : "/images/solutions/renders/villa-storage.jpg",
     "brandLogo" : null,
     "homeFeatured" : true,
     "title" : "Giải pháp lưu trữ năng lượng biệt thự",
@@ -71,7 +71,7 @@
     "id" : 2,
     "code" : "commercial-storage",
     "category" : "commercial",
-    "coverImage" : null,
+    "coverImage" : "/images/solutions/renders/commercial-storage.jpg",
     "brandLogo" : null,
     "homeFeatured" : true,
     "title" : "Giải pháp lưu trữ năng lượng thương mại và công nghiệp",
@@ -113,7 +113,7 @@
     "id" : 3,
     "code" : "pv-storage-charging",
     "category" : "pv-storage-charging",
-    "coverImage" : null,
+    "coverImage" : "/images/solutions/renders/pv-storage-charging.jpg",
     "brandLogo" : null,
     "homeFeatured" : true,
     "title" : "Giải pháp hệ thống điện mặt trời - lưu trữ - sạc",
@@ -144,11 +144,11 @@
       "description" : ""
     }, {
       "id" : 6,
-      "model" : "HD-H-16kwh-S",
+      "model" : "HDZN-H-16KWh-S",
       "category" : "batteries",
       "brand" : "HDZN Energy",
-      "image" : "/images/products/batteries/hd-h-16kwh-s.png",
-      "name" : "HD-H-16kwh-S",
+      "image" : "/images/products/renders/hdzn-h-16kwh-s/hero.png",
+      "name" : "HDZN-H-16KWh-S",
       "description" : ""
     }, {
       "id" : 7,
@@ -171,9 +171,9 @@
     "id" : 4,
     "code" : "pv-storage-diesel",
     "category" : "pv-storage-diesel",
-    "coverImage" : null,
+    "coverImage" : "/images/solutions/renders/grid-switching.jpg",
     "brandLogo" : null,
-    "homeFeatured" : false,
+    "homeFeatured" : true,
     "title" : "Giải pháp hệ thống điện mặt trời - lưu trữ - máy phát diesel",
     "description" : "",
     "products" : [ {
@@ -202,11 +202,11 @@
       "description" : ""
     }, {
       "id" : 6,
-      "model" : "HD-H-16kwh-S",
+      "model" : "HDZN-H-16KWh-S",
       "category" : "batteries",
       "brand" : "HDZN Energy",
-      "image" : "/images/products/batteries/hd-h-16kwh-s.png",
-      "name" : "HD-H-16kwh-S",
+      "image" : "/images/products/renders/hdzn-h-16kwh-s/hero.png",
+      "name" : "HDZN-H-16KWh-S",
       "description" : ""
     }, {
       "id" : 7,
