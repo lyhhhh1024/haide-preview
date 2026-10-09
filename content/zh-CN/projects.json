@@ -1,0 +1,61 @@
+{
+  "version" : "20261009-141402",
+  "locale" : "zh-CN",
+  "projects" : [ {
+    "id" : 1,
+    "code" : "guangzhou-pv-sunroom",
+    "capacityKw" : 25.80,
+    "dailyConsumptionKwh" : null,
+    "equipmentModel" : "Solis G5-GR3P(12-25)K(21A)",
+    "coverImagePath" : "/images/projects/guangzhou-pv-sunroom.jpeg",
+    "title" : "广州光伏阳光房项目",
+    "location" : "中国 · 广东广州",
+    "summary" : "25.8 kW 光伏阳光房，把露台遮阳、防水与清洁发电结合在一起。",
+    "requirements" : "以光伏阳光房替代传统玻璃阳光房，兼顾屋顶与露台的隔热、防水和发电。",
+    "background" : "业主希望改善传统玻璃阳光房的夏季温度及雨天使用体验，同时发挥屋顶空间的发电价值。",
+    "solution" : "采用锦浪 Solis G5-GR3P(12-25)K(21A) 三相光伏逆变器。单路组串输入电流 21 A、最高输入电压 1000 V，可适配高效及双面光伏组件；IP66 防护等级适合户外安装。",
+    "results" : "光伏组件替代玻璃顶棚，改善遮阳隔热|一体化顶棚降低渗漏风险|25.8 kW 装机容量提供清洁电力，余电可并网|提升屋顶与露台空间的使用价值"
+  }, {
+    "id" : 2,
+    "code" : "zengcheng-villa-pv-sunroom",
+    "capacityKw" : 30.20,
+    "dailyConsumptionKwh" : null,
+    "equipmentModel" : "Solis G6-GR3P(30-40)K",
+    "coverImagePath" : "/images/projects/zengcheng-villa-pv-sunroom.jpeg",
+    "title" : "增城别墅光伏阳光房项目",
+    "location" : "中国 · 广东广州",
+    "summary" : "30.2 kW 别墅光伏阳光房，让露台成为四季可用的休闲空间。",
+    "requirements" : "保留露台开阔视野，解决玻璃阳光房夏季闷热和雨季渗漏，并增加发电功能。",
+    "background" : "业主希望同时提升居住舒适度、露台利用率和清洁能源收益。",
+    "solution" : "结合别墅屋顶与露台结构，以光伏组件直接构成阳光房顶棚。系统装机 30.2 kW，匹配锦浪 Solis G6-GR3P(30-40)K 三相光伏逆变器；电力优先供别墅自用，余电并网。",
+    "results" : "光伏顶棚遮挡直射阳光，改善室内温度|减少传统玻璃顶棚的接缝与渗漏风险|30.2 kW 系统持续提供清洁电力|露台更适合四季休闲使用"
+  }, {
+    "id" : 3,
+    "code" : "vietnam-ci-rooftop-pv",
+    "capacityKw" : 31.68,
+    "dailyConsumptionKwh" : null,
+    "equipmentModel" : "Solis S5-GC(25-50)K",
+    "coverImagePath" : "/images/projects/vietnam-ci-rooftop-pv.png",
+    "title" : "越南工商业屋顶光伏项目",
+    "location" : "越南",
+    "summary" : "31.68 kW 工商业屋顶光伏系统，利用厂房屋顶降低电网取电量。",
+    "requirements" : "利用现有厂房屋顶建设光伏电站，降低对电网的依赖并稳定长期用电成本。",
+    "background" : "制造企业希望通过自发自用缓解电费压力。越南屋顶光伏政策的更新也为符合条件的余电交易提供了机会。",
+    "solution" : "根据屋顶面积及用电负荷配置 31.68 kW 光伏系统，采用锦浪 Solis S5-GC(25-50)K 三相逆变器。3/4 路 MPPT 适应不同朝向屋面，IP66 防护及无风扇散热设计适合当地高温高湿环境。发电优先自用，余电按适用政策处理。",
+    "results" : "自发自用减少电网取电量|屋顶空间转化为清洁能源资产|逆变器适应高温高湿及电网波动条件|为余电利用与绿色生产提供基础"
+  }, {
+    "id" : 4,
+    "code" : "chile-ci-pv",
+    "capacityKw" : 63.00,
+    "dailyConsumptionKwh" : 142.17,
+    "equipmentModel" : "Solis S6-EH3P50K-H",
+    "coverImagePath" : "/images/projects/chile-ci-pv.png",
+    "title" : "智利工商业光伏项目",
+    "location" : "智利",
+    "summary" : "63 kW 工商业光伏系统，为未来增加储能预留升级空间。",
+    "requirements" : "通过光伏发电减少电网取电量，同时保留未来加装储能的灵活性。",
+    "background" : "业主面临较高的工商业电价，希望优化用电结构并为未来的光储一体化做好准备。",
+    "solution" : "项目配置 63 kW 光伏系统，选用 Solis S6-EH3P50K-H 三相混合逆变器。该设备支持 4 路 MPPT、最高 1000 V 光伏输入及 150–800 V 电池电压范围，可在后续接入适配的锂电池储能系统。",
+    "results" : "光伏电力优先自用以降低电网取电|混合逆变器为后续加装储能保留条件|设备可适应当地电网波动"
+  } ]
+}

@@ -1,0 +1,61 @@
+{
+  "version" : "20261009-141402",
+  "locale" : "zh-TW",
+  "projects" : [ {
+    "id" : 1,
+    "code" : "guangzhou-pv-sunroom",
+    "capacityKw" : 25.80,
+    "dailyConsumptionKwh" : null,
+    "equipmentModel" : "Solis G5-GR3P(12-25)K(21A)",
+    "coverImagePath" : "/images/projects/guangzhou-pv-sunroom.jpeg",
+    "title" : "廣州光伏陽光房專案",
+    "location" : "中國 · 廣東廣州",
+    "summary" : "25.8 kW 光伏陽光房，結合露臺遮陽、防水與潔淨發電。",
+    "requirements" : "以光伏陽光房取代傳統玻璃陽光房，兼顧隔熱、防水與發電。",
+    "background" : "業主希望改善夏季高溫與雨天滲漏問題，同時發揮屋頂空間的發電價值。",
+    "solution" : "系統採用 Solis G5-GR3P(12-25)K(21A) 三相光伏逆變器，21 A 組串輸入與最高 1000 V 輸入可搭配高效及雙面模組；IP66 防護等級適合戶外安裝。",
+    "results" : "光伏模組提供遮陽隔熱|一體化頂棚降低滲漏風險|25.8 kW 裝置供應潔淨電力，餘電可併網|提升屋頂與露臺的使用價值"
+  }, {
+    "id" : 2,
+    "code" : "zengcheng-villa-pv-sunroom",
+    "capacityKw" : 30.20,
+    "dailyConsumptionKwh" : null,
+    "equipmentModel" : "Solis G6-GR3P(30-40)K",
+    "coverImagePath" : "/images/projects/zengcheng-villa-pv-sunroom.jpeg",
+    "title" : "增城別墅光伏陽光房專案",
+    "location" : "中國 · 廣東廣州",
+    "summary" : "30.2 kW 別墅光伏陽光房，讓露臺成為四季可用的休閒空間。",
+    "requirements" : "保留露臺開闊視野，改善夏季悶熱與雨季滲漏，並增加發電功能。",
+    "background" : "業主希望提升居住舒適度、露臺利用率及潔淨能源效益。",
+    "solution" : "依照別墅屋頂與露臺結構，以光伏模組構成頂棚。30.2 kW 系統搭配 Solis G6-GR3P(30-40)K 三相逆變器，所發電力優先供別墅使用，餘電併網。",
+    "results" : "光伏頂棚減少直射熱量|減少接縫及滲漏風險|30.2 kW 系統供應潔淨電力|露臺更適合全年休閒使用"
+  }, {
+    "id" : 3,
+    "code" : "vietnam-ci-rooftop-pv",
+    "capacityKw" : 31.68,
+    "dailyConsumptionKwh" : null,
+    "equipmentModel" : "Solis S5-GC(25-50)K",
+    "coverImagePath" : "/images/projects/vietnam-ci-rooftop-pv.png",
+    "title" : "越南工商業屋頂光伏專案",
+    "location" : "越南",
+    "summary" : "31.68 kW 工商業屋頂光伏系統，善用廠房屋頂減少電網取電。",
+    "requirements" : "利用現有廠房屋頂發電，降低電網依賴並穩定長期用電成本。",
+    "background" : "業主希望透過自發自用減輕電費壓力；當地政策更新也為符合條件的餘電交易提供機會。",
+    "solution" : "依屋頂面積與負載配置 31.68 kW 系統，採用 Solis S5-GC(25-50)K 三相逆變器。3/4 路 MPPT 適應不同屋面朝向，IP66 防護及無風扇散熱設計適用於高溫高濕環境。",
+    "results" : "自發自用減少電網取電|廠房屋頂成為潔淨能源資產|設備適應當地氣候與電網條件|為餘電利用及綠色生產奠定基礎"
+  }, {
+    "id" : 4,
+    "code" : "chile-ci-pv",
+    "capacityKw" : 63.00,
+    "dailyConsumptionKwh" : 142.17,
+    "equipmentModel" : "Solis S6-EH3P50K-H",
+    "coverImagePath" : "/images/projects/chile-ci-pv.png",
+    "title" : "智利工商業光伏專案",
+    "location" : "智利",
+    "summary" : "63 kW 工商業光伏系統，為未來加裝儲能保留升級空間。",
+    "requirements" : "透過光伏發電減少電網取電，並保留後續儲能擴充的彈性。",
+    "background" : "業主希望控制工商業電費，同時為未來的光儲整合做好準備。",
+    "solution" : "專案配置 63 kW 光伏系統與 Solis S6-EH3P50K-H 三相混合逆變器。設備支援 4 路 MPPT、最高 1000 V 光伏輸入及 150–800 V 電池電壓，可於日後接入相容的儲能系統。",
+    "results" : "光伏電力優先自用以減少電網取電|混合逆變器保留儲能升級條件|設備可適應當地電網波動"
+  } ]
+}

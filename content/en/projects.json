@@ -1,0 +1,61 @@
+{
+  "version" : "20261009-141402",
+  "locale" : "en",
+  "projects" : [ {
+    "id" : 1,
+    "code" : "guangzhou-pv-sunroom",
+    "capacityKw" : 25.80,
+    "dailyConsumptionKwh" : null,
+    "equipmentModel" : "Solis G5-GR3P(12-25)K(21A)",
+    "coverImagePath" : "/images/projects/guangzhou-pv-sunroom.jpeg",
+    "title" : "Guangzhou PV Sunroom Project",
+    "location" : "Guangzhou, Guangdong, China",
+    "summary" : "A 25.8 kW PV sunroom combining shade, weather protection and clean power generation.",
+    "requirements" : "Replace a conventional glass sunroom with a PV roof that provides insulation, waterproofing and electricity generation.",
+    "background" : "The owner wanted a more comfortable terrace and better use of the roof while addressing summer heat and rainwater leakage.",
+    "solution" : "The system uses a Solis G5-GR3P(12-25)K(21A) three-phase PV inverter. Its 21 A string input and up to 1000 V input accommodate high-efficiency and bifacial modules. IP66 protection supports outdoor installation.",
+    "results" : "PV modules provide shade and reduce direct solar heat|The integrated roof reduces leakage risk|The 25.8 kW installation supplies clean electricity, with surplus available for grid export|The roof and terrace gain practical year-round value"
+  }, {
+    "id" : 2,
+    "code" : "zengcheng-villa-pv-sunroom",
+    "capacityKw" : 30.20,
+    "dailyConsumptionKwh" : null,
+    "equipmentModel" : "Solis G6-GR3P(30-40)K",
+    "coverImagePath" : "/images/projects/zengcheng-villa-pv-sunroom.jpeg",
+    "title" : "Zengcheng Villa PV Sunroom Project",
+    "location" : "Guangzhou, Guangdong, China",
+    "summary" : "A 30.2 kW villa PV sunroom designed to make the terrace useful throughout the year.",
+    "requirements" : "Keep the terrace open and bright while reducing summer heat and rainy-season leakage, with on-site power generation.",
+    "background" : "The owner wanted to improve comfort and the value of the terrace without losing its open view.",
+    "solution" : "PV modules form the sunroom roof in place of conventional glass. A 30.2 kW system is matched with a Solis G6-GR3P(30-40)K three-phase inverter. Generated power is used by the villa first, with surplus fed into the grid.",
+    "results" : "The PV roof blocks direct sunlight and improves comfort|Fewer roof seams reduce leakage risk|The 30.2 kW system provides clean electricity|The terrace becomes a more useful leisure space in every season"
+  }, {
+    "id" : 3,
+    "code" : "vietnam-ci-rooftop-pv",
+    "capacityKw" : 31.68,
+    "dailyConsumptionKwh" : null,
+    "equipmentModel" : "Solis S5-GC(25-50)K",
+    "coverImagePath" : "/images/projects/vietnam-ci-rooftop-pv.png",
+    "title" : "Vietnam Commercial Rooftop PV Project",
+    "location" : "Vietnam",
+    "summary" : "A 31.68 kW commercial rooftop PV system using factory roof space to reduce grid electricity use.",
+    "requirements" : "Use the existing factory roof for solar generation, reducing grid dependence and long-term electricity costs.",
+    "background" : "The owner sought more predictable energy costs through on-site generation. Updated Vietnamese rooftop solar rules may also create options for eligible surplus electricity.",
+    "solution" : "The 31.68 kW system is tailored to the roof area and load profile. It uses a Solis S5-GC(25-50)K three-phase inverter with 3/4 MPPTs for mixed roof orientations. IP66 protection and fanless cooling suit hot, humid conditions. Power is used on site first; surplus is handled under applicable rules.",
+    "results" : "Self-consumption reduces electricity drawn from the grid|Existing roof space becomes a clean-energy asset|The inverter is designed for hot, humid and variable-grid conditions|The system supports future surplus-power use and greener production"
+  }, {
+    "id" : 4,
+    "code" : "chile-ci-pv",
+    "capacityKw" : 63.00,
+    "dailyConsumptionKwh" : 142.17,
+    "equipmentModel" : "Solis S6-EH3P50K-H",
+    "coverImagePath" : "/images/projects/chile-ci-pv.png",
+    "title" : "Chile Commercial & Industrial PV Project",
+    "location" : "Chile",
+    "summary" : "A 63 kW commercial PV installation designed for a future battery-storage upgrade.",
+    "requirements" : "Reduce grid electricity use with solar generation while retaining the option to add storage later.",
+    "background" : "The owner wanted to manage high commercial electricity costs and keep the system ready for a later PV-plus-storage expansion.",
+    "solution" : "The project uses a 63 kW PV array with a Solis S6-EH3P50K-H three-phase hybrid inverter. It supports four MPPTs, PV input up to 1000 V and a 150–800 V battery-voltage range, allowing compatible battery storage to be added later.",
+    "results" : "Solar power is used on site first to reduce grid draw|The hybrid inverter keeps a storage upgrade available|The equipment is designed to tolerate local grid fluctuations"
+  } ]
+}

@@ -1,0 +1,61 @@
+{
+  "version" : "20261009-141402",
+  "locale" : "vi",
+  "projects" : [ {
+    "id" : 1,
+    "code" : "guangzhou-pv-sunroom",
+    "capacityKw" : 25.80,
+    "dailyConsumptionKwh" : null,
+    "equipmentModel" : "Solis G5-GR3P(12-25)K(21A)",
+    "coverImagePath" : "/images/projects/guangzhou-pv-sunroom.jpeg",
+    "title" : "Dự án phòng kính năng lượng mặt trời tại Quảng Châu",
+    "location" : "Quảng Châu, Quảng Đông, Trung Quốc",
+    "summary" : "Không gian mái quang điện 25,8 kW kết hợp che nắng, chống mưa và phát điện sạch.",
+    "requirements" : "Thay mái kính truyền thống bằng mái quang điện để cách nhiệt, chống thấm và phát điện.",
+    "background" : "Chủ nhà muốn giảm nóng vào mùa hè, hạn chế dột khi mưa và tận dụng diện tích mái.",
+    "solution" : "Hệ thống dùng biến tần ba pha Solis G5-GR3P(12-25)K(21A). Dòng đầu vào chuỗi 21 A và điện áp đầu vào tối đa 1000 V phù hợp với mô-đun hiệu suất cao; cấp bảo vệ IP66 hỗ trợ lắp đặt ngoài trời.",
+    "results" : "Mô-đun quang điện tạo bóng râm và giảm nhiệt|Kết cấu mái liền mạch giảm nguy cơ thấm dột|Công suất 25,8 kW cung cấp điện sạch và có thể đưa điện dư lên lưới|Tăng giá trị sử dụng của mái và sân thượng"
+  }, {
+    "id" : 2,
+    "code" : "zengcheng-villa-pv-sunroom",
+    "capacityKw" : 30.20,
+    "dailyConsumptionKwh" : null,
+    "equipmentModel" : "Solis G6-GR3P(30-40)K",
+    "coverImagePath" : "/images/projects/zengcheng-villa-pv-sunroom.jpeg",
+    "title" : "Dự án phòng kính quang điện biệt thự Tăng Thành",
+    "location" : "Quảng Châu, Quảng Đông, Trung Quốc",
+    "summary" : "Phòng kính quang điện 30,2 kW giúp sân thượng sử dụng thuận tiện quanh năm.",
+    "requirements" : "Giữ tầm nhìn thoáng, giảm nóng và thấm dột, đồng thời tạo ra điện sạch.",
+    "background" : "Chủ nhà muốn nâng cao tiện nghi sinh hoạt và hiệu quả sử dụng sân thượng.",
+    "solution" : "Mô-đun quang điện thay mái kính thông thường. Hệ thống 30,2 kW sử dụng biến tần ba pha Solis G6-GR3P(30-40)K. Điện được ưu tiên dùng tại biệt thự; phần dư có thể đưa lên lưới.",
+    "results" : "Mái quang điện giảm ánh nắng trực tiếp|Ít mối nối hơn giúp giảm nguy cơ thấm dột|Hệ thống 30,2 kW tạo điện sạch|Sân thượng phù hợp làm không gian thư giãn quanh năm"
+  }, {
+    "id" : 3,
+    "code" : "vietnam-ci-rooftop-pv",
+    "capacityKw" : 31.68,
+    "dailyConsumptionKwh" : null,
+    "equipmentModel" : "Solis S5-GC(25-50)K",
+    "coverImagePath" : "/images/projects/vietnam-ci-rooftop-pv.png",
+    "title" : "Dự án điện mặt trời mái nhà công nghiệp tại Việt Nam",
+    "location" : "Việt Nam",
+    "summary" : "Hệ thống điện mặt trời mái nhà 31,68 kW giúp nhà máy giảm điện mua từ lưới.",
+    "requirements" : "Tận dụng mái nhà xưởng để phát điện tại chỗ và ổn định chi phí điện dài hạn.",
+    "background" : "Chủ đầu tư mong muốn giảm phụ thuộc vào lưới điện. Quy định mới có thể mở thêm lựa chọn xử lý điện dư nếu dự án đáp ứng điều kiện.",
+    "solution" : "Hệ thống 31,68 kW được thiết kế theo diện tích mái và phụ tải, dùng biến tần ba pha Solis S5-GC(25-50)K. Cấu hình 3/4 MPPT phù hợp nhiều hướng mái; cấp bảo vệ IP66 và làm mát không quạt phù hợp khí hậu nóng ẩm. Điện ưu tiên tự dùng.",
+    "results" : "Giảm lượng điện mua từ lưới nhờ tự dùng|Biến mái nhà xưởng thành nguồn điện sạch|Thiết bị phù hợp khí hậu nóng ẩm và lưới điện biến động|Tạo nền tảng cho sử dụng điện dư và sản xuất xanh"
+  }, {
+    "id" : 4,
+    "code" : "chile-ci-pv",
+    "capacityKw" : 63.00,
+    "dailyConsumptionKwh" : 142.17,
+    "equipmentModel" : "Solis S6-EH3P50K-H",
+    "coverImagePath" : "/images/projects/chile-ci-pv.png",
+    "title" : "Dự án quang điện thương mại và công nghiệp tại Chile",
+    "location" : "Chile",
+    "summary" : "Hệ thống quang điện 63 kW được thiết kế để bổ sung pin lưu trữ trong tương lai.",
+    "requirements" : "Giảm điện mua từ lưới bằng điện mặt trời và giữ khả năng nâng cấp lưu trữ.",
+    "background" : "Chủ đầu tư muốn quản lý chi phí điện thương mại và chuẩn bị cho việc kết hợp quang điện với lưu trữ.",
+    "solution" : "Dự án lắp hệ thống 63 kW với biến tần lai ba pha Solis S6-EH3P50K-H. Thiết bị hỗ trợ bốn MPPT, đầu vào quang điện tối đa 1000 V và dải điện áp pin 150–800 V, cho phép bổ sung hệ lưu trữ tương thích sau này.",
+    "results" : "Ưu tiên tự dùng điện mặt trời để giảm mua điện lưới|Biến tần lai giữ khả năng nâng cấp lưu trữ|Thiết bị thích ứng với dao động lưới điện địa phương"
+  } ]
+}
